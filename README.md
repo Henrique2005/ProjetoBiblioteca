@@ -33,4 +33,5 @@ Tela de livros disponíveis para clientes:
 Tela de empréstimos do cliente: 
 ![Tela empréstimos](./screenshots/meus_emprestimos.png)
 
+Para mais informações, leia o resumo disponibilizado.
 
