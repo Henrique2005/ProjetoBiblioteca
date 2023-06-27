@@ -22,15 +22,19 @@ no resumo.
 # Imagens
 
 Tela principal do administrador: 
+
 ![Tela principal administrador](./screenshots/tela_principal_adm.png)
 
 Tela principal do cliente: 
+
 ![Tela principal cliente](./screenshots/tela_principal_cliente.png)
 
 Tela de livros disponíveis para clientes: 
+
 ![Tela livros disponíveis](./screenshots/livros_disponiveis.png)
 
 Tela de empréstimos do cliente: 
+
 ![Tela empréstimos](./screenshots/meus_emprestimos.png)
 
 Para mais informações, leia o resumo disponibilizado.
